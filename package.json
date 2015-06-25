@@ -1,0 +1,24 @@
+{
+  "name": "better-buttons",
+  "version": "1.0.0",
+  "description": "Good morning team! We have been asked to implement a better button for our marketing landing pages in the hopes it leads to more conversions. We currently do one off landing pages for inbound marketing to lead customers to our main brand site. The CEO is demanding that we increase our number of conversions this year and we want something a little more enticing to get users to click.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kawikadkekahuna/Better-Buttons.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kawikadkekahuna/Better-Buttons/issues"
+  },
+  "homepage": "https://github.com/kawikadkekahuna/Better-Buttons#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-connect": "^2.2.0",
+    "gulp-sass": "^2.0.2"
+  }
+}
